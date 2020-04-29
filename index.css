@@ -159,7 +159,7 @@ a {
     }
     @media only screen and (max-width: 768px){
         #feature-sect {
-            background-image: url("/Users/jossgantley/Desktop/FCC Product Landing Page/guitars4.jpg");
+            background-image: url("guitars4.jpg");
         }
         
     }
@@ -175,12 +175,12 @@ a {
         }
     }
     #video-sect {
-        background-image: url("/Users/jossgantley/Desktop/FCC Product Landing Page/guitar2.jpg");
+        background-image: url("guitar2.jpg");
         
     }
     @media only screen and (max-width: 768px){
         #video-sect {
-            background-image: url("/Users/jossgantley/Desktop/FCC Product Landing Page/guitar6.jpg");
+            background-image: url("guitar6.jpg");
     }
 }
     #video{
@@ -212,11 +212,11 @@ a {
     }
     #email-sect{
         
-        background-image: url("/Users/jossgantley/Desktop/FCC Product Landing Page/guitar3.jpg");
+        background-image: url("guitar3.jpg");
     }
     @media only screen and (max-width: 768px) {
         #email-sect {
-        background-image: url("/Users/jossgantley/Desktop/FCC Product Landing Page/guitar5.jpg");
+        background-image: url("guitar5.jpg");
         
     }
 }
