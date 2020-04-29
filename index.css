@@ -154,7 +154,7 @@ a {
         min-height: 100vh;
         background-size: 100% 100%;
         background-repeat: no-repeat;
-        background-image: url("/Users/jossgantley/Desktop/FCC Product Landing Page/guitar1.jpg");
+        background-image: url("guitar1.jpg");
 
     }
     @media only screen and (max-width: 768px){
